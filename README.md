@@ -1,2 +1,2 @@
-# portfolio
-Collection of notable works
+# Portfolio
+Showcase of my works and contributions
